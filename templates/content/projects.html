@@ -1,7 +1,7 @@
 {{ define "content" }}
 
 
-<div style="width: 800px; float: left">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
 {{range projects}}
         <a href="projects-{{ . }}.html">
             <img style="padding: 20px" width="140" src="/static/images/projects/{{ . }}/thumbnails/!cover.jpeg">
