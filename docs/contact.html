@@ -6,101 +6,117 @@
     <title>Veronika Gandzha |  Contacts  </title>
     <link rel='stylesheet' href='/static/styles/styles.css'/>
     <script>
-        function openNav() {
-            document.getElementById("left-side-nav").style.width = "250px";
+        function clickNav() {
+            console.log('function openNav() {', document.getElementById("left-side-nav").style.width);
+
+            document.getElementById("left-side-nav").style.width = document.getElementById("left-side-nav").style.width !== "100%" ? "100%" : 0;
+
         }
 
         function closeNav() {
             document.getElementById("left-side-nav").style.width = "0";
         }
     </script>
-    
+
 </head>
 
 <body>
 
-<div class="menu-bottom" style="font-size:30px; color: #315C61; cursor:pointer" onclick="openNav()"></div>
+
+<div class="nav-container">
+    <div class="navbar-static-top"></div>
+
+    <div class="nav-logo">
+        <img width="250" src="/static/images/logo.jpg"/>
+    </div>
+    <div class="menu-bottom" style="font-size:30px; color: #315C61; cursor:pointer" onclick="clickNav()"></div>
+
+
+</div>
 
 <div id="left-side-nav" class="sidenav">
-    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-    
+    <div class="nav-menu">
+
     <div class="menu">
-    
+
     <div class="menuItem">
-        
+
             <a href="/index.html" >
                 PORTFOLIO
             </a>
-        
+
     </div>
 
-    
+
     <div class="menuItem">
-        
+
             <a href="/bio.html" >
                 BIO
             </a>
-        
+
     </div>
 
-    
+
     <div class="menuItem">
-        
+
             <a href="/projects.html" >
                 PROJECTS
             </a>
-        
+
     </div>
 
-    
+
     <div class="menuItem">
-        
+
             CONTACT
-        
+
     </div>
 
 </div>
 
+    </div>
 </div>
 
 <div class="rootContainer">
-    <img width="700" src="/static/images/logo.jpg"/>
+    <div class="full-size-logo">
+        <img width="700" src="/static/images/logo.jpg"/>
+    </div>
 
     <div class="horizontal-menu">
-        
+
     <div class="menu">
-    
+
     <div class="menuItem">
-        
+
             <a href="/index.html" >
                 PORTFOLIO
             </a>
-        
+
     </div>
 
-    
+
     <div class="menuItem">
-        
+
             <a href="/bio.html" >
                 BIO
             </a>
-        
+
     </div>
 
-    
+
     <div class="menuItem">
-        
+
             <a href="/projects.html" >
                 PROJECTS
             </a>
-        
+
     </div>
 
-    
+
     <div class="menuItem">
-        
+
             CONTACT
-        
+
     </div>
 
 </div>
@@ -108,7 +124,7 @@
     </div>
 
     <div class="content">
-        
+
     My Contacts
 
     </div>
