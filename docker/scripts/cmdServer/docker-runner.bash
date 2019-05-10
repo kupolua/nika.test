@@ -7,6 +7,6 @@ do
 
     isGenerate=`echo "$line" | grep 'site built at'`
 
-    echo ${isGenerate}
+    echo ${isGenerate} 'kpl'
 
 done < ${1:-/dev/stdin}
