@@ -4,6 +4,8 @@ while read line
 do
     isGenerate=`echo "$line" | grep 'site built at'`
 
+    echo  "isGenerate" ${isGenerate}
+
     if [[ -z "$isGenerate" ]]
      then
         echo "Nothing to do"
