@@ -5,8 +5,9 @@ bin/darwin/cmdServer -cmd="grep -i push"
 while read line
 do
 
-    isGenerate=`echo "$line" | grep 'site built at'`
+    echo 'kpl'
+    #isGenerate=`echo "$line" | grep 'site built at'`
 
-    echo ${isGenerate} 'kpl'
+    #echo ${isGenerate} 'kpl'
 
-done < ${1:-/dev/stdin}
+done < "${1:-/dev/stdin}"
