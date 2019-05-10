@@ -9,7 +9,7 @@ do
     if [[ -z "$isGenerate" ]]
      then
          #git_url=`echo "$line" | sed -e 's/.*git_url\":\"\(.*\)\"/\1/p'`
-         GIT_URL=`echo "$line" | jq '.repository.git_url'`
+         GIT_URL=`echo "$line" | jq '.repository.ssh_url'`
          GIT_EMAIL=`echo "$line" | jq '.head_commit.committer.email'`
          GIT_NAME=`echo "$line" | jq '.head_commit.committer.name'`
 
