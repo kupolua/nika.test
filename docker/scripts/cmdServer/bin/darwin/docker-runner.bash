@@ -14,8 +14,8 @@ do
          GIT_NAME=`echo "$line" | jq '.head_commit.committer.name'`
 
         echo ${GIT_URL} ${GIT_EMAIL} ${GIT_NAME}
-        ls ${HOME}/.ssh
-        docker run --rm -v ${HOME}/.ssh:/root/.ssh -e GIT_URL=${GIT_URL} -e GIT_EMAIL=${GIT_EMAIL} -e GIT_NAME=${GIT_NAME} kupolua/site-builder
+
+        docker run -t --rm -v ${HOME}/.ssh:/root/.ssh -e GIT_URL=${GIT_URL} -e GIT_EMAIL=${GIT_EMAIL} -e GIT_NAME=${GIT_NAME} kupolua/site-builder
 
      else
         echo "Nothing to do"
