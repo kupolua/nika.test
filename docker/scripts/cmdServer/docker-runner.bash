@@ -8,4 +8,5 @@ do
 
     #echo ${isGenerate} 'kpl'
 
-done < "${1:-/dev/stdin}"
+done < `bin/darwin/cmdServer -cmd="grep -i push"`
+#done < "${1:-/dev/stdin}"
