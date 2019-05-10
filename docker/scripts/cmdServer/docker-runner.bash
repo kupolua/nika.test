@@ -7,4 +7,4 @@ do
 
   echo "$line" "with tag 1"
 
-done < "${1:-/dev/stdin}"
+done < ${1:-/dev/stdin}
