@@ -9,14 +9,14 @@ do
     if [[ -z "$isGenerate" ]]
      then
          #git_url=`echo "$line" | sed -e 's/.*git_url\":\"\(.*\)\"/\1/p'`
-         GIT_URL=`echo "$line" | jq '.repository.ssh_url'`
-         GIT_EMAIL=`echo "$line" | jq '.head_commit.committer.email'`
-         GIT_NAME=`echo "$line" | jq '.head_commit.committer.name'`
+         #GIT_URL=`echo "$line" | jq -r '.repository.ssh_url' | sed -e 's/\"\(.*\)\"/\1/p'`
+         GIT_URL=`echo "$line" | jq -r '.repository.ssh_url'`
+         GIT_EMAIL=`echo "$line" | jq -r '.head_commit.committer.email'`
+         GIT_NAME=`echo "$line" | jq -r '.head_commit.committer.name'`
 
         echo ${GIT_URL} ${GIT_EMAIL} ${GIT_NAME}
 
-#        docker run -t --rm -v ${HOME}/.ssh:/root/.ssh -e GIT_URL=${GIT_URL} -e GIT_EMAIL=${GIT_EMAIL} -e GIT_NAME=${GIT_NAME} kupolua/site-builder
-        docker run -t --rm -v ${HOME}/.ssh:/root/.ssh -e GIT_URL='git@github.com:kupolua/nika.test.git' -e GIT_EMAIL='pkulakovsky@gmail.com' -e GIT_NAME='Pavel Kulakovsky' kupolua/site-builder
+        docker run -t --rm -v ${HOME}/.ssh:/root/.ssh -e GIT_URL=${GIT_URL} -e GIT_EMAIL=${GIT_EMAIL} -e GIT_NAME=${GIT_NAME} kupolua/site-builder
 
      else
         echo "Nothing to do"
