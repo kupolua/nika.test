@@ -5,6 +5,6 @@ bin/darwin/cmdServer -cmd="grep -i push"
 while read line
 do
 
-  jsonpp "$line"
+  jq "$line"
 
 done < "${1:-/dev/stdin}"
