@@ -4,7 +4,7 @@ while read line
 do
     isGenerate=`echo "$line" | grep 'site built at'`
 
-    echo  "isGenerate" ${isGenerate}
+    echo `date` "$line" >> docker-runner.log
 
     if [[ -z "$isGenerate" ]]
      then
@@ -14,7 +14,7 @@ do
          GIT_EMAIL=`echo "$line" | jq -r '.head_commit.committer.email'`
          GIT_NAME=`echo "$line" | jq -r '.head_commit.committer.name'`
 
-        echo ${GIT_URL} ${GIT_EMAIL} ${GIT_NAME}
+         echo `date` ${GIT_URL} ${GIT_EMAIL} ${GIT_NAME} >> docker-runner.log
 
         docker run -t --rm -v ${HOME}/.ssh:/root/.ssh -e GIT_URL=${GIT_URL} -e GIT_EMAIL=${GIT_EMAIL} -e GIT_NAME=${GIT_NAME} kupolua/site-builder
 
