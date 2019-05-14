@@ -3,111 +3,134 @@
   <component name="ChangeListManager">
     <list default="true" id="7f48d330-9c93-477a-9952-c4ebe3664392" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/scripts/cmdServer/bin/darwin/docker-runner.log" beforeDir="false" afterPath="$PROJECT_DIR$/docker/scripts/cmdServer/bin/darwin/docker-runner.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/scripts/cmdServer/bin/darwin/docker-runner.sh" beforeDir="false" afterPath="$PROJECT_DIR$/docker/scripts/cmdServer/bin/darwin/docker-runner.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects-Flies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects-Fly.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects-Fly2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects-Fly3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects-Fly4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/cheese.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/city.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/dough.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/dream.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/onion.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/oven.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/pizza.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/tomatoes.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/originals/vegies.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/cheese.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/city.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/dough.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/dream.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/onion.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/oven.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/pizza.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/tomatoes.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Flies/thumbnails/vegies.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/originals/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/originals/dive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/originals/dringing.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/originals/hero.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/originals/house.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/originals/table.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/originals/tea.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/originals/world.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/thumbnails/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/thumbnails/dive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/thumbnails/dringing.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/thumbnails/hero.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/thumbnails/house.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/thumbnails/table.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/thumbnails/tea.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly/thumbnails/world.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/originals/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/originals/dive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/originals/dringing.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/originals/hero.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/originals/house.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/originals/table.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/originals/tea.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/originals/world.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/thumbnails/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/thumbnails/dive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/thumbnails/dringing.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/thumbnails/hero.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/thumbnails/house.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/thumbnails/table.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/thumbnails/tea.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly2/thumbnails/world.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/originals/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/originals/dive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/originals/dringing.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/originals/hero.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/originals/house.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/originals/table.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/originals/tea.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/originals/world.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/thumbnails/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/thumbnails/dive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/thumbnails/dringing.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/thumbnails/hero.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/thumbnails/house.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/thumbnails/table.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/thumbnails/tea.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly3/thumbnails/world.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/originals/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/originals/dive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/originals/dringing.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/originals/hero.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/originals/house.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/originals/table.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/originals/tea.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/originals/world.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/thumbnails/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/thumbnails/dive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/thumbnails/dringing.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/thumbnails/hero.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/thumbnails/house.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/thumbnails/table.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/thumbnails/tea.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Fly4/thumbnails/world.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/originals/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/originals/a.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/originals/b.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/originals/c.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/originals/d.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/originals/e.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/originals/f.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/thumbnails/!cover.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/thumbnails/a.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/thumbnails/b.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/thumbnails/c.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/thumbnails/d.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/thumbnails/e.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/projects/Funny-Alphabet/thumbnails/f.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/bio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/projects-Funny-Alphabet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/bio.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/logo-mob.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/originals/advice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/originals/cofee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/originals/dance.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/originals/hi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/originals/persimmon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/originals/play.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/originals/playdate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/originals/relax.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/originals/yoga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/thumbnails/advice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/thumbnails/cofee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/thumbnails/dance.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/thumbnails/hi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/thumbnails/persimmon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/thumbnails/play.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/thumbnails/playdate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/thumbnails/relax.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/portfolio/thumbnails/yoga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/cheese.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/city.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/dough.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/dream.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/onion.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/oven.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/pizza.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/tomatoes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/originals/vegies.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/cheese.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/city.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/dough.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/dream.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/onion.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/oven.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/pizza.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/tomatoes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Flies/thumbnails/vegies.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/originals/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/originals/dive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/originals/dringing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/originals/hero.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/originals/house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/originals/table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/originals/tea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/originals/world.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/thumbnails/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/thumbnails/dive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/thumbnails/dringing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/thumbnails/hero.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/thumbnails/house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/thumbnails/table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/thumbnails/tea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly/thumbnails/world.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/originals/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/originals/dive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/originals/dringing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/originals/hero.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/originals/house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/originals/table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/originals/tea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/originals/world.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/thumbnails/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/thumbnails/dive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/thumbnails/dringing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/thumbnails/hero.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/thumbnails/house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/thumbnails/table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/thumbnails/tea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly2/thumbnails/world.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/originals/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/originals/dive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/originals/dringing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/originals/hero.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/originals/house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/originals/table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/originals/tea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/originals/world.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/thumbnails/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/thumbnails/dive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/thumbnails/dringing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/thumbnails/hero.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/thumbnails/house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/thumbnails/table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/thumbnails/tea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly3/thumbnails/world.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/originals/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/originals/dive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/originals/dringing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/originals/hero.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/originals/house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/originals/table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/originals/tea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/originals/world.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/thumbnails/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/thumbnails/dive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/thumbnails/dringing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/thumbnails/hero.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/thumbnails/house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/thumbnails/table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/thumbnails/tea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Fly4/thumbnails/world.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/originals/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/originals/a.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/originals/b.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/originals/c.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/originals/d.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/originals/e.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/originals/f.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/thumbnails/!cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/thumbnails/a.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/thumbnails/b.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/thumbnails/c.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/thumbnails/d.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/thumbnails/e.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/projects/Funny-Alphabet/thumbnails/f.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/1.ae8bdec4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.029e1a39.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/styles/styles.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -211,32 +234,6 @@
                 <element signature="e#13153#13206#0" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/content/projects-Fly2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/content/projects-Fly3.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/content/projects-Fly4.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/bio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1086" />
           </provider>
         </entry>
       </file>
@@ -378,11 +375,6 @@
             <path>
               <item name="nika.test" type="b2602c69:ProjectViewProjectNode" />
               <item name="nika.test" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nika.test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nika.test" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -473,12 +465,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33392000" />
+    <option name="totallyTimeSpent" value="33923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -490,7 +482,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5210191" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5210191" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
